@@ -28,7 +28,18 @@ git clone https://github.com/Saleh7127/ML-Mini-Projects.git
 cd ML-Mini-Projects
 ```
 
-### Technologies Used
-Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
-Natural Language Processing (NLTK, SpaCy, Transformers)
-Data Visualization (Matplotlib, Seaborn)
+### **Technologies Used**  
+- **Python**  
+  - Pandas  
+  - NumPy  
+  - Scikit-learn  
+  - TensorFlow  
+
+- **Natural Language Processing**  
+  - NLTK  
+  - SpaCy  
+  - Transformers  
+
+- **Data Visualization**  
+  - Matplotlib  
+  - Seaborn  
