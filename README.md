@@ -1,6 +1,6 @@
 ## Machine Learning Projects
 
-This repository contains three machine learning projects covering regression, classification, and chemometric modeling. Each project applies different machine learning techniques and data preprocessing strategies to solve real-world problems.
+This repository contains three machine learning projects covering regression, classification, chemometric modeling and refinforcement learning. Each project applies different machine learning and deep learning techniques and data preprocessing strategies to solve real-world problems.
 
 ### Projects Overview
 
@@ -22,6 +22,13 @@ This repository contains three machine learning projects covering regression, cl
 - **Preprocessing**: Savitzky-Golay filter, SNV, MSC.  
 - **Evaluation**: R², RMSE with cross-validation.  
 
+### 🕹️ **Pong AI Agent using Reinforcement Learning**
+- **Objective**: Train an agent to play Pong using raw pixel input and rewards.
+- **Algorithm**: REINFORCE (Policy Gradient Method).
+- **Preprocessing**: Frame cropping, downsampling, grayscale conversion.
+- **Training**: Policy network optimized with RMSProp, reward normalization.
+- **Evaluation**: Learning curves, average/cumulative rewards, agent performance over episodes.
+
 Clone the repository:
 ``` sh
 git clone https://github.com/Saleh7127/ML-Mini-Projects.git
@@ -34,6 +41,11 @@ cd ML-Mini-Projects
   - NumPy  
   - Scikit-learn  
   - TensorFlow  
+
+- **Reinforcement Learning**
+  - OpenAI Gym
+  - Policy Gradient (REINFORCE)
+  - RMSProp
 
 - **Natural Language Processing**  
   - NLTK  
